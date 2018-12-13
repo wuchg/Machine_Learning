@@ -44,4 +44,4 @@ The normal equation formula is given below:![1544668790405](../Resources/week2/1
 
 There is **no need** to do feature scaling with the normal equation.
 
-![1543043812708](C:\Users\Andy_Liu\AppData\Roaming\Typora\typora-user-images\1543043812708.png)
+![1543043812708](../Resources/1543043812708.png)
